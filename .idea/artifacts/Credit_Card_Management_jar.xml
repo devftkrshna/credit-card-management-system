@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Credit Card Management:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Credit_Card_Management_jar</output-path>
+    <root id="archive" name="Credit Card Management.jar">
+      <element id="module-output" name="Credit Card Management" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/flatlaf-3.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jcalendar-1.4/lib/jcalendar-1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
